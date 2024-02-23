@@ -1,6 +1,8 @@
 # Best-Movies
 
 Create a website that has at least 10 movies that I think are the best.
-Have a data related to the top 10 movies.
-Have a data related to which online platforms show these movies such as Netflix, Hulu, etc.
-Have a data related to generes so you can search by Sci-fi, Family, etc.
+Have at least 3 data enteries which are Movies, Genres and Streaming platforms.
+Seed all the data enteries and then create controllers for each data. 
+Have the movie images presented on the website,
+When clicking on the website, all the information on the movie should be presented at the bottom of the webpage.
+
