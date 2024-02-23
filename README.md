@@ -16,7 +16,7 @@
 
 USER STORIES
 
--As a user, I should be able to view the movies availeable on the website.
+-As a user, I should be able to view the movies available on the website.
 
 -As a user, I should be able to select a movie and see information about the movie such as the genre, duration and streaming platform I can view it on.
 
