@@ -7,8 +7,8 @@ const Movie = new Schema(
         image: {type: String, required: true },
         durationInMinutes: {type: Number, required: true},
         rating: {type: Number, required: true},
-        genres: {type:[{type:Schema.Types.ObjectId,ref:"Genre"}] },
-        streamingPlatforms: {type:[{type:Schema.Types.ObjectId,ref:"StreamingPlatform"}] }
+        genres: [{type:Schema.Types.ObjectId,ref:"Genre"}],
+        streamingPlatforms: [{type:Schema.Types.ObjectId,ref:"StreamingPlatform"}]
     },
     { timestamps: true },
 )
