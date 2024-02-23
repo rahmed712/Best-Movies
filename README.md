@@ -10,3 +10,8 @@
 
 -When clicking on the website, all the information on the movie should be presented at the bottom of the webpage.
 
+-Add a search bar to be able to search the movies through there.
+
+-Organize the movie images presented on the webpage to make it presentable.
+
+
