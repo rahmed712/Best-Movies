@@ -14,4 +14,14 @@
 
 -Organize the movie images presented on the webpage to make it presentable.
 
+USER STORIES
+
+-As a user, I should be able to view the movies availeable on the website.
+
+-As a user, I should be able to select a movie and see information about the movie such as the genre, duration and streaming platform I can view it on.
+
+-As a user, I should be able to search the movie I want to know about.
+
+
+
 
